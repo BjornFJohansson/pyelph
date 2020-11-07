@@ -19,3 +19,10 @@ Before the application can be started, the following open source Python packages
 After instalation of the required packages is ready, PyElph can be started by double-clicking on PyElph.py python script. 
 The folder standards contained the defined weight marker standards. New weight marker stadards can be defined and saved from 
 PyElph GUI or by editing a text file with the .marker extension.
+
+
+Related tools:
+
+- https://github.com/ncbi/HYDROID
+- https://github.com/scholer/gelutils
+- https://github.com/openpaul/gelImage
