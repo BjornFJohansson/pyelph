@@ -30,3 +30,4 @@ Related tools:
 - https://github.com/ncbi/HYDROID
 - https://github.com/scholer/gelutils
 - https://github.com/openpaul/gelImage
+- http://www.gelanalyzer.com
