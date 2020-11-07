@@ -31,3 +31,6 @@ Related tools:
 - https://github.com/scholer/gelutils
 - https://github.com/openpaul/gelImage
 - http://www.gelanalyzer.com
+
+
+[A survey of tools for analysing DNA fingerprints](https://pubmed.ncbi.nlm.nih.gov/25825453)
